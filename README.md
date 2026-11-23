@@ -32,5 +32,3 @@ Long term, I'd like to become an active contributor to the Microsoft developer c
 - [GitHub](https://github.com/VInthiranathan)
 - Open to collaboration, feedback, and beginner-friendly open-source contributions
 
----
-*Building, learning, and sharing — one project at a time.*
